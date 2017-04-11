@@ -1,0 +1,8 @@
+D:\FAF\2.Sınıf\2.Dönem\IDE\LAB2\bin\Debug\LAB2.exe.config
+D:\FAF\2.Sınıf\2.Dönem\IDE\LAB2\bin\Debug\LAB2.exe
+D:\FAF\2.Sınıf\2.Dönem\IDE\LAB2\bin\Debug\LAB2.pdb
+D:\FAF\2.Sınıf\2.Dönem\IDE\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+D:\FAF\2.Sınıf\2.Dönem\IDE\LAB2\obj\Debug\LAB2.csproj.GenerateResource.Cache
+D:\FAF\2.Sınıf\2.Dönem\IDE\LAB2\obj\Debug\LAB2.exe
+D:\FAF\2.Sınıf\2.Dönem\IDE\LAB2\obj\Debug\LAB2.pdb
+D:\FAF\2.Sınıf\2.Dönem\IDE\LAB2\obj\Debug\LAB2.Calculator.resources
